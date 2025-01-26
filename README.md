@@ -2,7 +2,7 @@
 
 This is a simple personal portfolio website showcasing my skills, projects, and experience as a **Frontend Developer**.
 
-![Portfolio Preview](screenshot.png)
+![Portfolio Preview](logo.png)
 
 ---
 
